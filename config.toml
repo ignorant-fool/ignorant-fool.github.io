@@ -4,8 +4,8 @@ title = "ignorantfool's Blog"
 theme = "hello-friend-ng"
 
 [params]
-  author = "Christopher Hart"
-  description = "A blog about all things technical."
+  author = "ignorantfool"
+  description = "A blog."
 
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
@@ -13,19 +13,19 @@ theme = "hello-friend-ng"
   dateformNumTime = "2006-01-02 15:04"
 
   [[params.social]]
-    icon = "github"
-    name = "GitHub"
+    name = "github"
     url = "https://github.com/ignorant-fool"
 
   [[params.social]]
-    icon = "mastodon"
-    name = "Mastodon"
+    name = "mastodon"
     url = "https://fosstodon.org/@ignorantfool"
 
   [[params.social]]
-    icon = "linkedin"
-    name = "LinkedIn"
+    name = "linkedin"
     url = "https://www.linkedin.com/in/harrisonbutton/"
 
-
-
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "posts/"
