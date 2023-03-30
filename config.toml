@@ -27,7 +27,7 @@ theme = "hello-friend-ng"
 [languages]
   [languages.en]
     [languages.en.params.logo]
-      logoText = "hello friend ng"
+      logoText = "hi friends :wave:"
       logoHomeLink = "/"
 
 [menu]
