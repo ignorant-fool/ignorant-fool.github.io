@@ -1,3 +1,31 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://christopherjhart.github.io/blog-hugo/"
+languageCode = "en-us"
+title = "ignorantfool's Blog"
+theme = "hello-friend-ng"
+
+[params]
+  author = "Christopher Hart"
+  description = "A blog about all things technical."
+
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  [[params.social]]
+    icon = "github"
+    name = "GitHub"
+    url = "https://github.com/ignorant-fool"
+
+  [[params.social]]
+    icon = "mastodon"
+    name = "Mastodon"
+    url = "https://fosstodon.org/@ignorantfool"
+
+  [[params.social]]
+    icon = "linkedin"
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/harrisonbutton/"
+
+
+
