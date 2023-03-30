@@ -1,4 +1,4 @@
-baseURL = "https://christopherjhart.github.io/blog-hugo/"
+baseURL = "https://ignorant-fool.github.io/"
 languageCode = "en-us"
 title = "ignorantfool's Blog"
 theme = "hello-friend-ng"
@@ -25,6 +25,10 @@ theme = "hello-friend-ng"
     url = "https://www.linkedin.com/in/harrisonbutton/"
 
 [menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about/"
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"

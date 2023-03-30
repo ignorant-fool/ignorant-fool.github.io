@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ignorantfool&#39;s Blog</title>
-    <link>https://christopherjhart.github.io/blog-hugo/tags/</link>
+    <link>https://ignorant-fool.github.io/tags/</link>
     <description>Recent content in Tags on ignorantfool&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Mar 2023 19:43:28 +0800</lastBuildDate><atom:link href="https://christopherjhart.github.io/blog-hugo/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Mar 2023 19:43:28 +0800</lastBuildDate><atom:link href="https://ignorant-fool.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>untagged</title>
-      <link>https://christopherjhart.github.io/blog-hugo/tags/untagged/</link>
+      <link>https://ignorant-fool.github.io/tags/untagged/</link>
       <pubDate>Thu, 30 Mar 2023 19:43:28 +0800</pubDate>
       
-      <guid>https://christopherjhart.github.io/blog-hugo/tags/untagged/</guid>
+      <guid>https://ignorant-fool.github.io/tags/untagged/</guid>
       <description></description>
     </item>
     
