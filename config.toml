@@ -1,6 +1,6 @@
 baseURL = "https://ignorant-fool.github.io/"
 languageCode = "en-us"
-title = "ignorantfool's Blog"
+title = "ignorantfool's blog"
 theme = "hello-friend-ng"
 
 [params]
@@ -23,6 +23,12 @@ theme = "hello-friend-ng"
   [[params.social]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/harrisonbutton/"
+
+[languages]
+  [languages.en]
+    [languages.en.params.logo]
+      logoText = "hello friend ng"
+      logoHomeLink = "/"
 
 [menu]
   [[menu.main]]
