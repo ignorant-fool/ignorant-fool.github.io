@@ -4,7 +4,7 @@ title = "ignorantfool's blog"
 theme = "hello-friend-ng"
 
 
-enableEmoji = true
+enableEmoji = false
 disable404 = false
 
 [params]
