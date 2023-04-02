@@ -7,7 +7,7 @@ images:
 tags:
   - travel
   - vegan
-  - southkorea
+  - south korea
 ---
 
 Below is literal copy and paste from reddit post. Need to reformat, re-write and tidy up, and also make it have some _flair_. 
