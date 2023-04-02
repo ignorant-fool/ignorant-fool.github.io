@@ -6,8 +6,6 @@ toc: false
 images:
 tags:
   - introduction
-  - testing multiple word tags
-  - do, they, work, like, this, too?
 ---
 
 testing 1 2 3 mic test 1 2 1 2 
