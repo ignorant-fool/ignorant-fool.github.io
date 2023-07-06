@@ -29,7 +29,7 @@ Not-currently airing:
 
 **One Piece** (715-815)
 
-I am a pretty big fan of One Piece - definitely one of my favourite manga of all time (debatable whether it is my actual favourite, but that's for another post). In mid-2020 I decided in the lockdown-era to start watching the anime from beginning to end, including every filler and film. I figured 929 episodes (at the time) shouldn't take too long, a year at max?
+I am a pretty big fan of *One Piece* - definitely one of my favourite manga of all time (debatable whether it is my actual favourite, but that's for another post). In mid-2020 I decided in the lockdown-era to start watching the anime from beginning to end, including every filler and film. I figured 929 episodes (at the time) shouldn't take too long, a year at max?
 
 HAHAHA
 
@@ -41,7 +41,7 @@ Also WOW, 100 episodes in a season! Almost one per day! *if only I'd kept that u
 **Kimi ni Todoke** (1-10)
 
 As a certified weeb, I've recently decided to try and learn to read/speak/understand 日本語 (Japanese). It's going...  not terribly? I definitely need to hit the grammar books more but kanji and vocabulary are about on track for where I want to be, but enough on that as I'm sure I'll make another post for that in due time.
-For now, as part of the whole *immersion dealio*, I've opted to start watching an anime using Japanese subs, and that anime is Kimi ni Todoke! I've read a fair amount of the manga so figured this would make a good choice.
+For now, as part of the whole *immersion dealio*, I've opted to start watching an anime using Japanese subs, and that anime is *Kimi ni Todoke*! I've read a fair amount of the manga so figured this would make a good choice.
 Boy was I wrong.
 It's quite difficult to keep up with, and I can't read anything as fast as they're talking, but that's okay. I'm enjoying the challenge, and looking forward to rewatching this in a few years *without* the subs.
 
