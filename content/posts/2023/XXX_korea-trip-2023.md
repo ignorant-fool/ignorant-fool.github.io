@@ -9,16 +9,38 @@ tags:
   - vegan
   - south korea
 ---
+Rough outline
+- intro and purpose of trip
+- pre-trip prep (happy cow, what other apps I got, what Kdramas I watched)
+- then the day-by-day report
+- end with
+
+
+---
+
+... and I'm back! A *big bit* over a month or few later I return with the second entry to this blog! Who'd've thunk that studying and working at the same time would leave me with no free time :upsidedownface:.
+
+ Today I'm going to be discussing some solo travel I recently did over the most recent Christmas/New Years period! This trip was the culmination of my "fuck covid" period, and allowed me to finally get some closure on losing my early twenties to that damn disease. To understand why, we'll need to go back to *the before*, to December of 2019.
+
+As a Christmas (and graduation from honours) present to myself, I had booked a holiday to Japan over the 2020 Christmas and New Years period. Due to *reasons*, that trip never happened, and my graduation got delayed, and ...     I don't think I really need to say much more, everyone knows the covid is and how it fucked up everyone's life for a few years (and continues fucking up lives for some even still now). Obviously having this trip cancelled sucked big-time, but I knew it would be okay, I would eventually get to go.
+
+Until Japan never opened their borders for nearly three years.
+
+During that three year wait, one of my close friends had moved to South Korea, and in early 2022 they had jokingly said I should come visit. I still had the money I put away for Japan, so thought "bet", and booked the trip to Korea then and there. This turned out to be really bad timing, as Japan *did* end up opening their borders about a month later BUT I had committed: I was to venture to South Korea first instead.
+
+Now up to this point, I didn't really know all that much about South Korea. I'd always been a *weeaboo*, not a *koreaboo*, so I had a few months to get up to speed, learn about the country, and prepare for this trip. I spent a lot of time on YouTube looking up travel blogs, I'd read pretty much every post posted on the /r/TravelKorea subreddit from February 2022 onwards, and most importantly, I spent hours trawling through HappyCow looking for where I could eat. Turns out there are a lot of great veg*n places to eat in Seoul (not so much the other cities I visited, but we'll get to that later), and I'll be writing about them down below. I went in to 
+
+I knew I was never going to learn Korean, but I had to get the "sound" of the language in my head (like I have the "sound" of Japanese), and the best way to do that was to watch KDramas - so in the lead-up to the trip I watched two dramas on Netflix. The first was *Itaewon Class*, which was INCREDIBLE. The male lead won me over on Kdramas from pretty much the first episode. It's been a while since I watched so I'm can't really be more eloquent in my review but yeah, amazing show. I always thought Kdramas were kinda *cringe* (yes, I understand the irony of saying that coming from a weeb) but this show demonstrated they can be anything but.   The other show I watched was *Extraordinary Attorney Woo*, which was also incredible. East Asian countries aren't exactly known for their treatment of those with physical or other disabilities, so this show was a real treat. The female lead played her part very convincingly, and her dad was such a good character as well. Again it's been a while, buy highly recommend people watch either of these to get into Kdramas!
+
+From my pre-trip readings, the most important things I had to get before the trip were actually just two smartphone apps: papago and Naver Maps. Papago is like Google Translate, but on steroids for the Korean language, while Naver Maps is, well, Google Maps on steroids (for South Korea). Papago is used just like Google Translate - point and click photos, speak into it, or even type. I often used it at convenience stores when looking at ingredients, or to offer compliments at restaurants. Naver will tell you the exact train line to go on, as well as what train car to make it quickest on the entering and leaving the station. The trains and bus timetables are always accurate. Anyone going to Korea **MUST** download these apps to help get around. I didn't use any rideshare or taxi's whilst over there, so can't speak to whether Uber of KakaoT are as useful as others say they are.
+
+With al
+
+
 
 Below is literal copy and paste from reddit post. Need to reformat, re-write and tidy up, and also make it have some _flair_. 
 Also need to add some things:
 - download papago and naver maps. papago for kr>eng translation (take photo bam translated) and naver for maps. I didn't use any rideshare or taxi trips so cant comment on any apps for that. naver is so useful, tells you exact train station entrance/exit to use, and even which door on the train to use to make it quicker. 
-- as someone who had literally never ordered from starbucks before, the standard order steps were: 
-    1. drink (oatsu milk latte)
-    2. size (large)
-    3. hot or cold (hotto)
-    4. dine in or takeaway (to go)
-    5. thank you (Kamsahamnida)
 - get money out at Incheon train station to buy public transport (Tmoney) card (but don't get the 100 000 KRW as the machine won't accept them!). Also probably bring a coin purse, very useful.
 
 
