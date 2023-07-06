@@ -56,7 +56,7 @@ Currently airing:
 
 **Ousama Ranking** average
 
-Ousama Ranking -- Side Story time. Yeah look it was okay, not much to say really. Just a bunch of SOL stories that didn't make the cut in Season 1. Hiling-sama is a beautiful milf as always, and very sad about what happens to King Desha. 
+*Ousama Ranking* - Side Story time. Yeah look it was okay, not much to say really. Just a bunch of SOL stories that didn't make the cut in Season 1. Hiling-sama is a beautiful milf as always, and very sad about what happens to King Desha. 
 
 **Megami no Cafe Terrace** average
 
@@ -68,7 +68,7 @@ The first of the *true* anime, silly battle shounens. Yeah not gonna lie, underw
 
 **Kuma Kuma Kuma Bear Punch!** average
 
-KUMA. Kuma kuma kuma, kuma.  tl;dr she gets kanshou and bakuya (UNLIMITED BEAR WORKS) and increases her loli harem. Need I say anymore? S3 when??
+KUMA. Kuma kuma *kuma*, kuma.  tl;dr she gets kanshou and bakuya (UNLIMITED BEAR WORKS) and increases her loli harem. Need I say anymore? S3 when??
 
 **Tonikaku Kawaii S2** good
 
@@ -96,7 +96,7 @@ I'm not normally one to think that how a season ends makes or breaks that season
 
 **Vinland Saga S2 (Cour 2)** great
 
-Vinland Saga Season 2, the lowest of my greats (which says a lot about the other shows). Season 2 of Vinland Saga was nothing like the first, but that doesn't mean it was bad at all. The "Farmland" arc was a different look at war, from the point of view of those not-at-war and those who have ceased being a part of war. Thorfinn, the tiny viking who almost rivalled best-boy Askellad, is not rejecting violence - what a glow-up. 
+*Vinland Saga* Season 2, the lowest of my greats (which says a lot about the other shows). Season 2 of *Vinland Saga* was nothing like the first, but that doesn't mean it was bad at all. The "Farmland" arc was a different look at war, from the point of view of those not-at-war and those who have ceased being a part of war. Thorfinn, the tiny viking who almost rivalled best-boy Askellad, is not rejecting violence - what a glow-up. 
 This second cour in particular I found better than the first, with episode 20 being very painful to watch.
 
 **Kimi wa Houkago Insomnia** great
