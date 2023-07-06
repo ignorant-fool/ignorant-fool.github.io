@@ -55,6 +55,7 @@ Currently airing:
 *Blue Orchestra* had the potential to be something pretty damn great, and I think it still has that potential sitting in the back, somewhere, deep, behind that "what the fuck why has no one licenced this show" elephant in the room. I am enjoying this quite a bit, particularly since I am an ex-band nerd from high school myself. Akine is a budget Asuka, the bassists use German bows (awesome btw). Definitely hurt by the fan subs not being musically knowledgeable, misusing (and abusing) some terms. Hopefully the second cour keeps up the good work!
 
 **Ousama Ranking** average
+
 Ousama Ranking -- Side Story time. Yeah look it was okay, not much to say really. Just a bunch of SOL stories that didn't make the cut in Season 1. Hiling-sama is a beautiful milf as always, and very sad about what happens to King Desha. 
 
 **Megami no Cafe Terrace** average
