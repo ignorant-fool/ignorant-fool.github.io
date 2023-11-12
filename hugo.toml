@@ -1,3 +1,56 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://ignorant-fool.github.io/"
+languageCode = "en-us"
+title = "ignorant-fool's blog"
+theme = "hello-friend-ng"
+
+
+enableEmoji = false
+disable404 = false
+
+[params]
+  author = "ignorant-fool"
+  description = "A blog."
+
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/ignorant-fool"
+
+  [[params.social]]
+    name = "mastodon"
+    url = "https://fosstodon.org/@ignorantfool"
+
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/harrisonbutton/"
+
+  [params.footer]
+    trademark = false
+    rss = false
+    copyright = false
+    author = false
+
+    topText = []
+    bottomText = [
+      "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
+    ]
+
+[languages]
+  [languages.en]
+    [languages.en.params.logo]
+      logoText = "hi friends :wave:"
+      logoHomeLink = "/"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about/"
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "posts/"
