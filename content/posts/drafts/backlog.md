@@ -22,3 +22,4 @@ General ideas for posts moving into the future:
 3. Plagioclase when you finally start doing more work on it lmao.
 
 4. Find an interesting paper and try to recreate the results on some public data. Do a write up and share :smile:.
+
